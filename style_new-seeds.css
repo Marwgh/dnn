@@ -173,9 +173,18 @@ a{
 #tandv {
     margin-top: 7vw;
 }
-#tandv p{
-    margin-bottom: 1vw;
+
+section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
+#tandv p{
+    align-self: center;
+    margin-bottom: 1vw;
+    width: 90%;
+}
+
 
 /* video video video*/
 #containerVideo {
