@@ -287,6 +287,15 @@ footer{
     padding: 1vw;
     padding-left: 0;
 }
+#fino img{
+    width: 2vw;
+    height: auto;
+}
+#iconss{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
 
 #flogo > img{
     width: 18vw;
@@ -295,4 +304,5 @@ footer{
     float: right;
     top: 10vw;
 }
+
 /*footer footer footer */
